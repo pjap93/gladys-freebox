@@ -1,0 +1,9 @@
+{
+  "name": "gladys-freebox-revolution",
+  "version": "0.0.1",
+  "description": "This module connects Gladys to FreeBox Révolution",
+  "dependencies": {
+  },
+  "author": "J@P",
+  "license": "CC-BY-NC-SA-3.0"
+}
